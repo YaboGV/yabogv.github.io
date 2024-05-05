@@ -57,14 +57,10 @@ consequat."
           imageHeight: 160
           imageTitle: Yabo Gwladys Vidogbena
           buttons:
-            # - name: Papers
-            #   url: papers/
             - name: Research
-              url: research/
-            # - name: Courses
-            #   url: courses/
+              url: papers/
             - name: Teaching
-              url: teaching/
+              url: courses/
             # - name: Data
             #   url: data/
             # - name: Newsletter
@@ -86,8 +82,8 @@ consequat."
         #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
-        # - name: LinkedIn
-        #   url: https://www.linkedin.com/in/yabo-gwladys-vidogbena-b2b544104/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/yabo-gwladys-vidogbena-b2b544104/
         - name: GitHub
           url: https://github.com/yaboGV
         # - name: Substack
