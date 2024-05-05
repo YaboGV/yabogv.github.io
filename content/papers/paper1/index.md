@@ -1,10 +1,10 @@
 ---
-title: "Paper Title 1" 
+title: "Exposure to Heat and Student's Cognitive Functioning" 
 date: 2012-06-01
 tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+author: "Yabo Gwladys Vidogbena, Sharon Wolf"
+description: "This paper shows how students contemporaneously function under hot temperatures in the context of developing countries." 
+summary: "This paper quantify the effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset in Ghana." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
