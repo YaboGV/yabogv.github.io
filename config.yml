@@ -51,7 +51,7 @@ consequat."
     profileMode:
           enabled: true
           title: Yabo Gwladys Vidogbena
-          subtitle: "I am 5th year student."
+          subtitle: "I am a 5th year Ph.D. student at the University of Houston."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -98,7 +98,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Yabo G. Vidogbena"
       icon: favicon.ico
       iconHeight: 18
 
@@ -108,8 +108,9 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: winter 
     tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
+# autumn
