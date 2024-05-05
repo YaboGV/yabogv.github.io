@@ -108,9 +108,8 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: winter 
+        style: autumn 
     tableOfContents:
         endLevel: 2
         ordered: false
         startLevel: 2
-# autumn
