@@ -1,4 +1,4 @@
-baseURL: "yabogv.github.io" 
+baseURL: "https://yabogv.github.io/" 
 title: Vido
 paginate: 20
 theme: PaperMod
