@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Yabo Gwladys Vidogbena
           subtitle: "I am a 5th year Ph.D. student at the University of Houston."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Yabo Gwladys Vidogbena
