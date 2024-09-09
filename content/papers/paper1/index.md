@@ -6,7 +6,7 @@ author: "Yabo Gwladys Vidogbena, Sharon Wolf"
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of developing countries." 
 summary: "This paper quantify the effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset in Ghana and pubicly available UTCI data." 
 cover:
-    image: "paper1.png"
+    image: "main_res_sur_ass.pdf"
     alt: "Image caption"
     relative: false
 editPost:
