@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Home
-          url: "https://yabogv.github.io/"
+          url: "https://yabogv.github.io/hugo-website/"
           weight: 1
         - name: Papers
           url: research/
