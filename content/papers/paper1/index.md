@@ -11,7 +11,7 @@ cover:
     relative: false
 editPost:
     URL: "https://github.com/YaboGV/yabogv.github.io/blob/main/assets/vidogbena_wolf_temperature_children_west_africa.pdf"
-    Text: "Journal Name"
+    Text: "Link to the Paper"
 
 ---
 
@@ -20,7 +20,7 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
+<!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
 ---
