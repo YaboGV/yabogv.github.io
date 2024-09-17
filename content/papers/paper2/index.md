@@ -34,7 +34,7 @@ We study the evolution of manufacturing value added shares in 11 sub-Saharan Afr
 
 ![](paper2.png)
 
----
+<!-- --- -->
 
 <!-- ##### Citation -->
 
