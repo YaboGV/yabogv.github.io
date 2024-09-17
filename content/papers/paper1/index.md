@@ -1,6 +1,6 @@
 ---
 title: "Exposure to Heat and Student's Cognitive Functioning" 
-date: 2024
+date: September 2024
 tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena, Sharon Wolf"
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
