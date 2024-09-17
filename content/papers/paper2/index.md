@@ -10,8 +10,8 @@ cover:
     alt: "Image caption"
     relative: false
 editPost:
-    # URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Paper available upon request"
+    URL: "https://thedocs.worldbank.org/en/doc/b75ab59b57e6282d9cb4164d8ced546b-0050022024/related/Kei-Mu-Yi-Slides-Updated.pdf?_gl=1*1izfczd*_gcl_au*MTczMjQ4MDAxNC4xNzI1ODkyNjky"
+    Text: "Presentation"
 
 ---
 
@@ -52,9 +52,9 @@ volume = {Volume},
 year = {Year}}
 ```
 
----
+<!-- ---
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
++ [Presentation slides](presentation2.pdf) -->
 
