@@ -17,8 +17,8 @@ menu:
         - name: Courses
           url: courses/
           weight: 2
-        # - name: Data
-        #   url: data/
+        - name: Data
+          url: data/
         #   weight: 3 
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
