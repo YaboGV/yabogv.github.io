@@ -15,10 +15,10 @@ cover:
 
 ---
 
----
+<!-- --- -->
 
 ##### Download
-
++ [Paper](Available upon request)
 <!-- + [Online appendix](appendix2.pdf)
 + [Code and data](https://github.com/pmichaillat/unemployment-gap) -->
 
