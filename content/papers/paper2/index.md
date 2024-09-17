@@ -9,9 +9,9 @@ cover:
     image: "paper2.png"
     alt: "Image caption"
     relative: false
-editPost:
-    # URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Paper available upon request"
+# editPost:
+#     URL: "https://doi.org/10.1073/pnas.1816454115"
+#     Text: "Paper available upon request"
 
 ---
 
@@ -34,7 +34,7 @@ We study the evolution of manufacturing value added shares in 11 sub-Saharan Afr
 
 ![](paper2.png)
 
----
+<!-- ---
 
 ##### Citation
 
@@ -56,5 +56,5 @@ year = {Year}}
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
++ [Presentation slides](presentation2.pdf) -->
 
