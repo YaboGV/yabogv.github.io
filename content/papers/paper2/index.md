@@ -52,9 +52,9 @@ volume = {Volume},
 year = {Year}}
 ```
 
-<!-- ---
+---
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf) -->
++ [Presentation slides](presentation2.pdf)
 
