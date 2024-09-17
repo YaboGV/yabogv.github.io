@@ -11,12 +11,15 @@ taxonomies:
 
 menu:
     main:
+        - name: Home
+          url: "https://yabogv.github.io/"
+          weight: 1
         - name: Papers
           url: research/
-          weight: 1
+          weight: 2
         - name: Courses
           url: teaching/
-          weight: 2
+          weight: 3
         # - name: Data
         #   url: data/
         #   weight: 3 
