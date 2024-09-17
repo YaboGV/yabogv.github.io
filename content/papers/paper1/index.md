@@ -9,17 +9,17 @@ cover:
     image: "main_res_sur_ass.png"
     alt: "Image caption"
     relative: false
-# editPost:
-#     URL: "https://github.com/YaboGV/yabogv.github.io/blob/main/assets/vidogbena_wolf_temperature_children_west_africa.pdf"
-#     Text: "Link to the Paper"
+editPost:
+    URL: "https://github.com/YaboGV/yabogv.github.io/blob/main/assets/vidogbena_wolf_temperature_children_west_africa.pdf"
+    Text: "Link to the Paper"
 
 ---
 
 ---
 
-##### Download
+<!-- ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper](paper1.pdf) -->
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
@@ -53,7 +53,7 @@ volume = {Volume},
 year = {Year}}
 ``` -->
 
----
+<!-- --- -->
 
 <!-- ##### Related material -->
 
