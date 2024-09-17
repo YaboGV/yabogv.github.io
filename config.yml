@@ -12,10 +12,10 @@ taxonomies:
 menu:
     main:
         - name: Papers
-          url: papers/
+          url: research/
           weight: 1
         - name: Courses
-          url: courses/
+          url: teaching/
           weight: 2
         # - name: Data
         #   url: data/
