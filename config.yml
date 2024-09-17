@@ -14,11 +14,11 @@ menu:
         - name: Home
           url: "https://yabogv.github.io/hugo-website/"
           weight: 1
-        - name: Papers
-          url: research/
+        - name: Research
+          url: papers/
           weight: 2
-        - name: Courses
-          url: teaching/
+        - name: Teaching
+          url: courses/
           weight: 3
         # - name: Data
         #   url: data/
