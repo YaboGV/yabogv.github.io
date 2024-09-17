@@ -38,7 +38,7 @@ We study the evolution of manufacturing value added shares in 11 sub-Saharan Afr
 
 ##### Citation
 
-<!-- Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
 ```BibTeX
 @article{AAYY,
@@ -50,7 +50,7 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-``` -->
+```
 
 ---
 
