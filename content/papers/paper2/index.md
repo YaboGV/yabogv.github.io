@@ -30,7 +30,7 @@ We study the evolution of manufacturing value added shares in 11 sub-Saharan Afr
 
 ---
 
-##### Figure X: Figure caption
+##### Within-between decomposition results for Sub-Saharan Africa and developing Asia
 
 ![](paper2.png)
 
