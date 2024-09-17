@@ -31,7 +31,7 @@ The number of high temperature days has grown over time. Developing countries ha
 
 ---
 
-##### Map of Ghana: Greater Accra Region
+##### Effects of Heat on Child Executive Function Behavior
 
 ![](paper1.png)
 
