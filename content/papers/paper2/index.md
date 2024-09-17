@@ -1,7 +1,7 @@
 ---
 title: "Structural Change in sub-Saharan Africa: An Open Economy Perspective" 
 date: 2024-09-01
-tags: ["keyword 1","keyword 2","keyword 4"]
+# tags: ["keyword 1","keyword 2","keyword 4"]
 author: ["Gaaitzen de Vries", "Hagen Kruse", "Emmanuel Mensah", "Yabo Vidogbena", "Kei-Mu Yi"]
 description: "This paper explores structural change in Sub_Sharan Africa using an open economy model of trade." 
 summary: "This paper explores structural change in Sub_Sharan Africa using an open economy model of trade using a novel input-output dataset." 
