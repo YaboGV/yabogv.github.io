@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Yabo Gwladys Vidogbena
-          subtitle: "I am a 5th year Ph.D. student at the University of Houston."
+          subtitle: "I am a Ph.D candidate in Economics at the University of Houston. I am on the job market 2024-2025."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
