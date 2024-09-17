@@ -37,9 +37,9 @@ The number of high temperature days has grown over time. Developing countries ha
 
 ---
 
-##### Citation
+<!-- ##### Citation -->
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+<!-- Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
 ```BibTeX
 @article{AAYY,
@@ -51,11 +51,11 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-```
+``` -->
 
 ---
 
-##### Related material
+<!-- ##### Related material -->
 
 <!-- + [Presentation slides](presentation1.pdf)
 + [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
