@@ -9,9 +9,9 @@ cover:
     image: "paper2.png"
     alt: "Image caption"
     relative: false
-editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+# editPost:
+#     URL: "https://doi.org/10.1073/pnas.1816454115"
+#     Text: "Other Journal Name"
 
 ---
 
