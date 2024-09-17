@@ -40,7 +40,7 @@ We study the evolution of manufacturing value added shares in 11 sub-Saharan Afr
 
 Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
-```BibTeX
+<!-- ```BibTeX
 @article{AAYY,
 author = {Author 1 and Author 2},
 doi = {paper_doi},
@@ -50,7 +50,7 @@ pages = {XXX--YYY},
 title ={Title},
 volume = {Volume},
 year = {Year}}
-```
+``` -->
 
 ---
 
