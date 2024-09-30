@@ -14,7 +14,7 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 2
         - name: Teaching
