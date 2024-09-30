@@ -5,7 +5,7 @@ description: "Courses on business cycles, economic slack, unemployment, macroeco
 
 ### Teaching
 
-* Causal Inference, Estimation and Hypothesis Testing, Summer 2024 - [Learning Days]
+* Causal Inference, Estimation and Hypothesis Testing - [Learning Days](https://egap.org/project/learning-days-14-west-africa-regional-hub-workshop/)
 
 * Principles of Macroeconomics, Spring 2023, UH - [Course evaluation](2220_10848_Course_Evaluation_Report.pdf)
 
