@@ -8,5 +8,3 @@ description: "Courses on business cycles, economic slack, unemployment, macroeco
 * Principles of Macroeconomics, Spring 2023
 
 ### Teaching Assistant
-
-* Principles of Macroeconomics, Fall 2022--Spring 2023
