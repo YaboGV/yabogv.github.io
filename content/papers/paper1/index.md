@@ -4,7 +4,7 @@ date: 2024-09-01
 tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena, Sharon Wolf"
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
-summary: "This paper quantify the contemporaneous effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset in Ghana and pubicly available UTCI data." 
+summary: "This paper quantifies the contemporaneous effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset in Ghana and UTCI data." 
 cover:
     image: "main_res_sur_ass.png"
     alt: "Image caption"
