@@ -62,7 +62,7 @@ params:
             - name: Research
               url: papers/
             - name: Teaching
-              url: courses/
+              url: teaching/
             # - name: Data
             #   url: data/
             # - name: Newsletter
