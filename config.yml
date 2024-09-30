@@ -72,8 +72,8 @@ params:
             # - name: Archive
             #   url: archive/
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:yvidogbena@uh.edu
         # - name: Location
@@ -86,8 +86,8 @@ params:
         #   url: https://www.youtube.com/@pmichaillat
         - name: LinkedIn
           url: https://www.linkedin.com/in/yabo-gwladys-vidogbena-b2b544104/
-        # - name: GitHub
-        #   url: https://github.com/yaboGV
+        - name: GitHub
+          url: https://github.com/yaboGV
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: Twitter
