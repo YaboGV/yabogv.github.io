@@ -5,7 +5,9 @@ description: "Courses on business cycles, economic slack, unemployment, macroeco
 
 ### Teaching
 
-* Principles of Macroeconomics, Spring 2023 - [Course evaluation](2220_10848_Course_Evaluation_Report.pdf)
+* Causal Inference, Estimation and Hypothesis Testing, Summer 2024 - [Learning Days](https://egap.org/project/learning-days-14-west-africa-regional-hub-workshop/)
+
+* Principles of Macroeconomics, Spring 2023, University of Houston - [Course evaluation](2220_10848_Course_Evaluation_Report.pdf)
 
 
 ### Teaching Assistant
