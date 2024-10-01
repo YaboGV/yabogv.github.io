@@ -72,8 +72,8 @@ params:
             # - name: Archive
             #   url: archive/
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:yvidogbena@uh.edu
         # - name: Location
