@@ -15,7 +15,7 @@ menu:
           url: /
           weight: 1
         - name: Research
-          url: papers/
+          url: research/
           weight: 2
         - name: Teaching
           url: teaching/
@@ -60,7 +60,7 @@ params:
           imageTitle: Yabo Gwladys Vidogbena
           buttons:
             - name: Research
-              url: papers/
+              url: research/
             - name: Teaching
               url: teaching/
             # - name: Data
