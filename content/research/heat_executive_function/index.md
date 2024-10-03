@@ -17,9 +17,9 @@ cover:
 
 <!-- --- -->
 
-<!-- ##### Download
+##### Download
 
-+ [Paper](paper1.pdf) -->
++ [Paper](paper1.pdf)
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
@@ -27,7 +27,7 @@ cover:
 
 ##### Abstract
 
-The number of high temperature days has grown over time. Developing countries have less capacity to protect against the harm of extreme heat. It is important to understand how heat affects learning. There is a growing literature on the effects of extreme heat on performance and learning but no evidence in Africa.  We contribute to this literature by examining the effect of extreme heat on children’s executive function behavior in Ghana. Heat may act as a stimuli and affect executive function behavior through changes in brain chemistry and functioning which results in decrease in attention, memory, information retention and processing. Using rich longitudinal data on children, including their executive function behavior and performance on math and literacy tests, I estimate child fixed-effects models to obtain the effect of temperature on day of test on cognitive functioning.  Including child fixed effects enables me to control for time-invariant characteristics of the child such as raw ability or parental attributes, enabling me to isolate the effect of temperature on the day of test. The results using data from southern Ghana suggest that a deviation from the reference temperature bin ($24^{\circ} C$ and $26^{\circ} C$) decreases attentiveness of children. Specifically, attentiveness decreases by respectively 0.05, 0.11, 0.18 and 0.13 points as it gets hotter (i.e. $27$--$29^{\circ}C$; $30$--$32^{\circ}C$; $33$--$35^{\circ}C$; $35$--$41^{\circ}C$). These results correspond to a 20\% decrease in the likelihood of being always attentive and a 2\% increase in the likelihood of being never attentive. We found no effect on test scores, but exam are not timed and test score could reflect both skills and effort in this context.
+This paper examines the effect of heat on children’s executive function behavior in Ghana. Executive function behavior reflects the ability to stay focused regardless of external stimuli. Heat may act as a stimulus and affect executive function behavior through changes in brain chemistry and functioning, leading to decreases in attention, memory, information retention and processing. Using rich longitudinal data on children, this paper estimates child fixed-effects models to obtain the contemporaneous effect of temperature on executive function behavior and tests scores. The results suggest that a deviation from the reference temperature bin (24-26°C) decreases children's executive function. Specifically, at 33-35°C, these results correspond to an increase in the likelihood of being never attentive. The paper also finds that relatively poorer children are more affected. There is no effect on test scores, but since exam are not timed, test scores could reflect both skills and effort in this context.
 
 ---
 
