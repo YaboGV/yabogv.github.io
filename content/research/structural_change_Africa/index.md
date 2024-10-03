@@ -17,7 +17,8 @@ editPost:
 
 <!-- --- -->
 
-<!-- ##### Download -->
+##### Download
++ [Presentation slides](presentation2.pdf)
 <!-- + [Paper](Available upon request) -->
 <!-- + [Online appendix](appendix2.pdf)
 + [Code and data](https://github.com/pmichaillat/unemployment-gap) -->
@@ -52,9 +53,9 @@ volume = {Volume},
 year = {Year}}
 ``` -->
 
----
+<!-- ---
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
++ [Presentation slides](presentation2.pdf) -->
 
