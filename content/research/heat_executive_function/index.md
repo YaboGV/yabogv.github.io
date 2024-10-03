@@ -9,9 +9,9 @@ cover:
     image: "main_res_sur_ass.png"
     alt: "Image caption"
     relative: false
-editPost:
-    URL: [](paper1.pdf)
-    Text: "Draft"
+# editPost:
+#     URL: [](paper1.pdf)
+#     Text: "Draft"
 
 ---
 
