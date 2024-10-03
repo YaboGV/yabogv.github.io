@@ -35,7 +35,7 @@ This paper examines the effect of heat on children’s executive function behavi
 
 ![](paper1.png)
 
----
+<!-- --- -->
 
 <!-- ##### Citation -->
 
