@@ -10,7 +10,7 @@ cover:
     alt: "Image caption"
     relative: false
 editPost:
-    URL: [Paper](paper1.pdf)
+    URL: [](paper1.pdf)
     Text: "Draft"
 
 ---
