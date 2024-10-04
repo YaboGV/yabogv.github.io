@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Yabo Gwladys Vidogbena
           subtitle: "I am a Ph.D candidate in Economics at the University of Houston. My main interest is in development Economics, specifically in education. My primary research agenda aims at understanding the learning crisis in Sub-Saharan African countries. I am on the job market 2024-2025 and you can find my CV <a href='cv.pdf' style='color:blue;'> here</a>."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture_squared_new.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Yabo Gwladys Vidogbena
