@@ -1,5 +1,5 @@
 baseURL: "https://yabogv.github.io" 
-title: Yabo G. Vidogbena
+title: Yabo Gwladys Vidogbena
 paginate: 20
 theme: PaperMod
 
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Yabo G. Vidogbena"
+      text: "Yabo Gwladys Vidogbena"
       icon: favicon.ico
       iconHeight: 18
 
