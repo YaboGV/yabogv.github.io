@@ -33,7 +33,7 @@ school days (i.e weekends and vacations) or growing season vs. non growing seaso
 
 ##### Effects of Heat on Child Executive Function Behavior
 
-![](main_re_read_math.png)
+![](main_res_read_math.PNG)
 
 <!-- --- -->
 
