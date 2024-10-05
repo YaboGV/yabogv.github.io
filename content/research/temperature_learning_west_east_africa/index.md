@@ -18,7 +18,7 @@ cover:
 
 ##### Download
 
-+ [Draft](paper3.pdf)
++ [Draft](temperature_learning_west_east_africa.pdf)
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
@@ -33,7 +33,7 @@ school days (i.e weekends and vacations) or growing season vs. non growing seaso
 
 ##### Effects of Heat on Child Executive Function Behavior
 
-![](paper1.png)
+![](main_re_read_math.png)
 
 <!-- --- -->
 
