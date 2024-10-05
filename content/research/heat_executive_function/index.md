@@ -19,7 +19,7 @@ cover:
 
 ##### Download
 
-+ [Draft](paper1.pdf)
++ [Draft](heat_executive_function_behavior.pdf)
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
@@ -33,7 +33,7 @@ This paper examines the effect of heat on children’s executive function behavi
 
 ##### Effects of Heat on Child Executive Function Behavior
 
-![](paper1.png)
+![](main_res_sur_ass.png)
 
 <!-- --- -->
 
