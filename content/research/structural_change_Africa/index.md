@@ -6,7 +6,7 @@ author: ["Gaaitzen de Vries", "Hagen Kruse", "Emmanuel Mensah", "Yabo Vidogbena"
 description: "This paper explores structural change in Sub-Saharan Africa using an open economy framework." 
 summary: "This paper explores structural change in Sub-Saharan Africa using an open economy framework." 
 cover:
-    image: "paper2.png"
+    image: "structural_change_Africa.png"
     alt: "Image caption"
     relative: false
 editPost:
@@ -33,7 +33,7 @@ We study the evolution of manufacturing value added shares in 11 sub-Saharan Afr
 
 ##### Within-between decomposition results for Sub-Saharan Africa and developing Asia
 
-![](paper2.png)
+![](structural_change_Africa.png)
 
 <!-- --- -->
 
