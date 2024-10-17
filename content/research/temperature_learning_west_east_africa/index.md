@@ -4,10 +4,10 @@ date: 2024-09-01
 author: "Yabo Gwladys Vidogbena, Risto Conte Keivabu, Julia Behrman, and Liliana Andriano "
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
 summary: "We provide benchmark estimates of the effect of high temperatures on learning outcomes in WCA, thus providing an important comparison point with other parts of the world." 
-# cover:
-#     image: "main_res_read_math.png"
-#     alt: "Image caption"
-#     relative: false
+cover:
+    image: "main_res_read_math.png"
+    alt: "Image caption"
+    relative: false
 # editPost:
 #     URL: [](paper1.pdf)
 #     Text: "Draft"
