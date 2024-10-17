@@ -5,10 +5,10 @@ date: 2024-09-01
 author: "Yabo Gwladys Vidogbena"
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
 summary: "This paper quantifies the contemporaneous effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset and UTCI (temperature perceived) data." 
-cover:
-    image: "main_res_sur_ass.png"
-    alt: "Image caption"
-    relative: false
+# cover:
+#     image: "main_res_sur_ass.png"
+#     alt: "Image caption"
+#     relative: false
 # editPost:
 #     URL: [](paper1.pdf)
 #     Text: "Draft"
