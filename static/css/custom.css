@@ -1,4 +1,6 @@
 .cover-image {
-    width: 10px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 300px; /* or any width you prefer */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* centers the image */
 }
