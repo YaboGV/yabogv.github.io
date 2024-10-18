@@ -11,7 +11,9 @@ keywords: ["Yabo Gwladys Vidogbena", "Economics", "Development Economics", "Univ
 
 + Principles of Macroeconomics, Spring 2024, UH - [Students' Course evaluation](2220_10848_Course_Evaluation_Report.pdf)
 
-+ Causal Inference, Estimation and Hypothesis Testing - [Learning Days 14](https://egap.org/project/learning-days-14-west-africa-regional-hub-workshop/)
++  CERAP EGAP - [Learning Days 14](https://egap.org/project/learning-days-14-west-africa-regional-hub-workshop/)
+
+    + Causal Inference, Estimation and Hypothesis Testing
 
 + Randomization - [Learning Days 12](https://egap.org/project/learning-days-12-west-africa-regional-hub-workshop/)
 
