@@ -13,7 +13,7 @@ keywords: ["Yabo Gwladys Vidogbena", "Economics", "Development Economics", "Univ
 
 + Instructor, Centre de Recherche et d’Action pour la Paix (CERAP), Evidence in Governance and Politics (EGAP)
     - Causal Inference, Estimation and Hypothesis Testing, [Learning Days 14](https://egap.org/project/learning-days-14-west-africa-regional-hub-workshop/), Summer 2024, Abidjan
-    - Randomization, [Learning Days 12](https://egap.org/project/learning-days-12-west-africa-regional-hub-workshop/), Summer 2024, Abidjan
+    - Randomization, [Learning Days 12](https://egap.org/project/learning-days-12-west-africa-regional-hub-workshop/), Summer 2023, Abidjan
 
 
 ### Teaching Assistant
