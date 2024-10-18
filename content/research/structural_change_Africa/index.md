@@ -18,7 +18,7 @@ editPost:
 <!-- --- -->
 
 ##### Download
-+ [Draft](STEG_SSA.pdf)
++ [Draft](structural_change_Africa.pdf)
 + [Presentation slides](presentation.pdf)
 <!-- + [Paper](Available upon request) -->
 <!-- + [Online appendix](appendix2.pdf)
