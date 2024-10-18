@@ -9,9 +9,9 @@ cover:
     image: "structural_change_Africa.png"
     alt: "Image caption"
     relative: false
-editPost:
-    # URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Paper available upon request"
+# editPost:
+#     # URL: "https://doi.org/10.1073/pnas.1816454115"
+#     Text: "Paper available upon request"
 
 ---
 
