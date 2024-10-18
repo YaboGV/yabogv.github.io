@@ -1,10 +1,10 @@
 ---
-title: "Exposure to Heat and Student's Cognitive Functioning" 
+title: "Temperature and Learning in West and Central Africa" 
 date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
-author: "Yabo Gwladys Vidogbena"
-description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
-summary: "This paper quantifies the contemporaneous effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset and UTCI (temperature perceived) data." 
+author: "Yabo Gwladys Vidogbena, Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"
+description: "This paper shows how exposure to hot temperature trhoughout an academic year affects students' human capital." 
+summary: "We provide benchmark estimates of the effect of high temperatures on learning outcomes in WCA, thus providing an important comparison point with other parts of the world." 
 # cover:
 #     image: "main_res_sur_ass.png"
 #     alt: "Image caption"
@@ -19,7 +19,7 @@ summary: "This paper quantifies the contemporaneous effect of exposure to hot te
 
 ##### Download
 
-+ [Draft](heat_executive_function_behavior.pdf)
++ [Draft](temperature_learning_west_central_africa.pdf)
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
@@ -33,7 +33,7 @@ This paper examines the effect of heat on children’s executive function behavi
 
 ##### Effects of Heat on Child Executive Function Behavior
 
-![](main_res_sur_ass.png)
+![](main_res_read_math.png)
 
 <!-- --- -->
 
