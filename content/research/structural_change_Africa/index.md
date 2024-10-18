@@ -18,6 +18,7 @@ editPost:
 <!-- --- -->
 
 ##### Download
++ [Draft](STEG_SSA.pdf)
 + [Presentation slides](presentation.pdf)
 <!-- + [Paper](Available upon request) -->
 <!-- + [Online appendix](appendix2.pdf)
