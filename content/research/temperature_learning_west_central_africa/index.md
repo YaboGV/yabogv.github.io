@@ -4,7 +4,7 @@ date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena, Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"
 description: "This paper shows how exposure to hot temperature trhoughout an academic year affects students' human capital." 
-summary: "This paper provides benchmark estimates of the effect of high temperatures on learning outcomes in WCA, thus providing an important comparison point with other parts of the world." 
+summary: "This paper provides benchmark estimates of the effect of high temperatures on learning outcomes in West and Central Africa, thus providing an important comparison point with other parts of the world." 
 # cover:
 #     image: "main_res_sur_ass.png"
 #     alt: "Image caption"
