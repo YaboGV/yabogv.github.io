@@ -1,5 +1,5 @@
 ---
-title: "Exposure to Heat Secondary" 
+title: "Secondary School Subsidy for Girls and Educational Attainment: Evidence from Benin" 
 date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
