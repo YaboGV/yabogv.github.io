@@ -17,9 +17,9 @@ summary: "This paper quantifies the contemporaneous effect of exposure to hot te
 
 <!-- --- -->
 
-##### Download
+<!-- ##### Download -->
 
-+ [Draft](heat_executive_function_behavior.pdf)
+<!-- + [Draft](heat_executive_function_behavior.pdf) -->
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/job-rationing) -->
 
