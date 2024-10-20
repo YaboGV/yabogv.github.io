@@ -1,5 +1,5 @@
 ---
-title: "Exposure to Heat and Secondary" 
+title: "Exposure to Heat Secondary" 
 date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
