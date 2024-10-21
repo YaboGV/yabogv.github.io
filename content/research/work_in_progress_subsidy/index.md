@@ -5,7 +5,7 @@ date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
 description: "This paper investigates the effectiveness of a policy aimed at encouraging girls to attend lower secondary school in Benin." 
-summary: "This paper investigates the effectiveness of a policy aimed at encouraging girls to attend lower secondary school in Benin." 
+summary: "Secondary School Subsidy for Girls and Educational Attainment: Evidence from Benin." 
 # cover:
 #     image: "main_res_sur_ass.png"
 #     alt: "Image caption"
