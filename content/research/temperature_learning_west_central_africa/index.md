@@ -33,7 +33,7 @@ In this paper, we combine georeferenced temperature data with newly released lea
 
 ---
 
-##### Effects of Heat on Child Executive Function Behavior
+##### Change in Reading and Math Score by Temperature
 
 ![](main_res_read_math.png)
 
