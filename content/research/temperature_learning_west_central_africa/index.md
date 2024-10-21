@@ -1,5 +1,6 @@
 ---
 title: "Temperature and Learning in West and Central Africa" 
+weight: 2
 date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena, Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"

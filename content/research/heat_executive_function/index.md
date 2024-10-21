@@ -1,5 +1,6 @@
 ---
 title: "Exposure to Heat and Student's Cognitive Functioning" 
+weight: 1
 date: 2024-09-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
