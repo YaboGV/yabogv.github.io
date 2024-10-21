@@ -1,5 +1,5 @@
 .thumbnail {
-    width: 300px; /* Adjust as needed */
+    width: 250px; /* Adjust as needed */
     height: auto; /* Maintain aspect ratio */
     margin-bottom: 10px; /* Add space below the image */
     border-radius: 5px; /* Optional: rounded corners */
