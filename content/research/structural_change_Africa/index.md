@@ -6,6 +6,7 @@ date: 2024-09-01
 author: ["Gaaitzen de Vries", "Hagen Kruse", "Emmanuel Mensah", "Yabo Vidogbena", "Kei-Mu Yi"]
 description: "This paper explores structural change in Sub-Saharan Africa using an open economy framework." 
 summary: "This paper explores structural change in Sub-Saharan Africa using an open economy framework." 
+thumbnail: "/Figure shiftshare decomp 10apr2024.jpg"
 # cover:
 #     image: "structural_change_Africa.png"
 #     alt: "Image caption"
