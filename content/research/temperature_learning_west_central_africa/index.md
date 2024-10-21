@@ -6,7 +6,7 @@ date: 2024-09-01
 author: "Yabo Gwladys Vidogbena, Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"
 description: "This paper shows how exposure to hot temperatures trhoughout an academic year affects students' human capital." 
 summary: "This paper provides benchmark estimates of the effect of high temperatures on learning outcomes in West and Central Africa, thus providing an important comparison point with other parts of the world." 
-# thumbnail: "/main_res_read_math.png"
+thumbnail: "/main_res_read_math.png"
 # cover:
 #     image: "main_res_sur_ass.png"
 #     alt: "Image caption"
