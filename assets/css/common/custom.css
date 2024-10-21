@@ -1,7 +1,9 @@
-.thumbnail {
-    width: 150px; /* Adjust as needed */
-    height: auto; /* Maintain aspect ratio */
-    margin-bottom: 10px; /* Add space below the image */
-    border-radius: 5px; /* Optional: rounded corners */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Optional: subtle shadow */
+@media (max-width: 600px) {
+    article {
+        flex-direction: column; /* Stack items on small screens */
+    }
+    .thumbnail {
+        margin-left: 0; /* Remove margin on small screens */
+        margin-top: 10px; /* Add top margin instead */
+    }
 }
