@@ -35,7 +35,7 @@ In this paper, we combine georeferenced temperature data with newly released lea
 
 ##### Change in Reading and Math Score by Temperature
 
-![](main_res_read_math.png)
+![](main_res_read_math.PNG)
 
 <!-- --- -->
 
