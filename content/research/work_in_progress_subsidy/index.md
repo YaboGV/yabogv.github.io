@@ -31,9 +31,9 @@ I exploit the variation among potential primary school graduating cohorts by tak
 
 ---
 
-##### Effects of Heat on Child Executive Function Behavior
+<!-- ##### Effects of Heat on Child Executive Function Behavior
 
-![](main_res_sur_ass.png)
+![](main_res_sur_ass.png) -->
 
 <!-- --- -->
 
