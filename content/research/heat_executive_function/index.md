@@ -8,8 +8,6 @@ description: "This paper shows how students contemporaneously function under hot
 summary: "This paper quantifies the contemporaneous effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset and UTCI (temperature perceived) data." 
 cover:
     thumbnail: "main_res_sur_ass.png"
-    alt: "Image caption"
-    relative: false
 # cover:
 #     image: "main_res_sur_ass.png"
 #     alt: "Image caption"
