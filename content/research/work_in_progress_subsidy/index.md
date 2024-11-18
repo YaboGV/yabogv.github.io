@@ -1,7 +1,7 @@
 ---
 title: "Work in Progress" 
 weight: 4
-date: 2024-09-01
+date: 2023-08-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
 description: "This paper investigates the effectiveness of a policy aimed at encouraging girls to attend lower secondary school in Benin." 
@@ -28,7 +28,7 @@ summary: "Secondary School Subsidy for Girls and Educational Attainment: Evidenc
 
 ##### Abstract
 
-I exploit the variation among potential primary school graduating cohorts by taking advantage of a subsidy given to girls to attend secondary school in Benin starting from 2010. I investigated the effect of the policy on Educational outcomes. Preliminary findings suggest that the policy increases primary school completion by 6 percentage points and increases grade 7 enrolment (secondary school) of 5 percentage points.
+I exploit the variation among potential primary school graduating cohorts by taking advantage of a subsidy given to girls to attend secondary school in Benin starting from 2010. I investigated the effect of the policy on Educational outcomes. Preliminary findings suggest that the policy increases primary school completion by 6 percentage points and increases grade 7 enrolment (secondary school) by 5 percentage points.
 
 <!-- --- -->
 
