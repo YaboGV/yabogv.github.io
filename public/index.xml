@@ -1,73 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Prof. Name</description>
+    <title>Yabo Gwladys Vidogbena</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yabo Gwladys Vidogbena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposure to Heat and Student&#39;s Cognitive Functioning (JMP)</title>
+      <link>http://localhost:1313/research/heat_executive_function/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/heat_executive_function/</guid>
+      <description>This paper shows how students contemporaneously function under hot temperatures in the context of a developing country.</description>
+    </item>
+    
+    <item>
+      <title>Temperature and Learning in West and Central Africa</title>
+      <link>http://localhost:1313/research/temperature_learning_west_central_africa/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/temperature_learning_west_central_africa/</guid>
+      <description>This paper shows how exposure to hot temperatures trhoughout an academic year affects students&amp;#39; human capital.</description>
+    </item>
+    
+    <item>
+      <title>Structural Change in sub-Saharan Africa: An Open Economy Perspective</title>
+      <link>http://localhost:1313/research/structural_change_africa/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/structural_change_africa/</guid>
+      <description>This paper explores structural change in Sub-Saharan Africa using an open economy framework.</description>
+    </item>
+    
+    <item>
+      <title>Work in Progress</title>
+      <link>http://localhost:1313/research/work_in_progress_subsidy/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/work_in_progress_subsidy/</guid>
+      <description>This paper investigates the effectiveness of a policy aimed at encouraging girls to attend lower secondary school in Benin.</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
+      <link>http://localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
+      <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
     
     <item>
       <title>Course Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>This graduate course presents things.</description>
     </item>
     
     <item>
       <title>Course Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
+      <guid>http://localhost:1313/courses/course2/</guid>
       <description>This undergraduate course presents many new things.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
     </item>
     
     
     <item>
       <title>Location</title>
-      <link>https://pascalmichaillat.org/hugo-website/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
+      <guid>http://localhost:1313/location/</guid>
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
     
     <item>
       <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/hugo-website/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
+      <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
     
