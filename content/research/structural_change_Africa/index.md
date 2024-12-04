@@ -1,5 +1,5 @@
 ---
-title: "Structural Change in sub-Saharan Africa: An Open Economy Perspective" 
+title: "Structural Change in Sub-Saharan Africa: An Open Economy Perspective" 
 weight: 3
 date: 2024-09-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
