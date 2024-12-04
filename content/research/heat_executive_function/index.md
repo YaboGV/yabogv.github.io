@@ -1,5 +1,5 @@
 ---
-title: "Exposure to Heat and Student's Cognitive Functioning (JMP)" 
+title: "Exposure To Heat and Student Cognitive Functioning (JMP)" 
 weight: 1
 date: 2024-11-01
 # tags: ["Executive Function","UTCI","keyword 3"]
