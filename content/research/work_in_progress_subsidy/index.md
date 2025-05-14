@@ -1,7 +1,7 @@
 ---
 title: "Work in Progress" 
 weight: 4
-date: 2023-08-01
+# date: 2023-08-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
 description: "This paper investigates the effectiveness of a policy aimed at encouraging girls to attend lower secondary school in Benin." 
