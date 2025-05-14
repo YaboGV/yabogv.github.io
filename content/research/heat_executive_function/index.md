@@ -1,7 +1,7 @@
 ---
 title: "Exposure To Heat and Student Cognitive Functioning (JMP)" 
 weight: 1
-date: 2024-11-01
+# date: 2024-11-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
