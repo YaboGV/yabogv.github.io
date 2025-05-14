@@ -3,7 +3,7 @@ title: "Exposure To Heat and Student Cognitive Functioning (JMP)"
 weight: 1
 # date: 2024-11-01
 # tags: ["Executive Function","UTCI","keyword 3"]
-author: "Yabo Gwladys Vidogbena Sahron Wolf"
+author: "Yabo Gwladys Vidogbena, Sharon Wolf"
 description: "This paper shows how students contemporaneously function under hot temperatures in the context of a developing country." 
 summary: "This paper quantifies the contemporaneous effect of exposure to hot temperatures for children in developing countries using a novel longitudinal dataset and UTCI (temperature perceived) data." 
 thumbnail: "/main_res_sur_ass.png"
