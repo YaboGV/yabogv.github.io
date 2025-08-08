@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Yabo Gwladys Vidogbena
-          subtitle: "Hi and Welcome!<br> \
+          subtitle: "Hi and Welcome!<br> /
 
           I am a Postdoctoral Fellow."
           imageUrl: "Yabo2040_squared_high_res.jpg"
