@@ -54,12 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Yabo Gwladys Vidogbena
-          subtitle: "Hi and Welcome!<br> \ 
-
-          I am a postdoctoral researcher at the Population Studies Center (PSC).<br> <br>
-          
-          My research interests lie in development economics, particularly in human capital formation and the role of trade in structural change in developing countries.<br> <br>
-
+          subtitle: "Hi and Welcome!<br> \
           You can find my CV <a href='cv.pdf' style='color:#009e73; font-weight:bold;'> here</a>."
           imageUrl: "Yabo2040_squared_high_res.jpg"
           imageWidth: 160
