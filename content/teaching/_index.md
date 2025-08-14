@@ -9,6 +9,9 @@ keywords: ["Yabo Gwladys Vidogbena", "Economics", "Development Economics", "Univ
 
 ### Teaching
 
+
++ Instructor, Econometrics Methods and Models, Fall 2025, UPenn
+
 + Instructor, Principles of Macroeconomics, Spring 2024, UH - [Students' course evaluation](2220_10848_Course_Evaluation_Report.pdf)
 
 + Instructor, Centre de Recherche et d’Action pour la Paix (CERAP), Evidence in Governance and Politics (EGAP)
