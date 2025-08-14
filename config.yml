@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Yabo Gwladys Vidogbena
-          subtitle: "Hi and Welcome! I am a Postdoctoral Fellow at the Population Studies Center (PSC) and an instructor in the Department of economics at the University of Pennsylvania. I obtained my Ph.D. in economics from the University of Houston. You can find my CV <a href='cv_yabo_vidogbena_aug_2025.pdf' style='color:#009e73; font-weight:bold;'> here</a>."
+          subtitle: "Hi and Welcome! I am a Postdoctoral Fellow at the Population Studies Center (PSC) and an instructor in the Department of economics at the University of Pennsylvania. I obtained my Ph.D. in economics from the University of Houston. You can find my CV <a href='cv_yabo_vidogbena_noTA_aug_25.pdf' style='color:#009e73; font-weight:bold;'> here</a>."
           imageUrl: "Yabo2040_squared_high_res.jpg"
           imageWidth: 160
           imageHeight: 160
