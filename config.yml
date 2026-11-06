@@ -28,7 +28,7 @@ menu:
         #   weight: 3
 
 params:
-    description: "Yabo Gwladys Vidogbena--Ph.D candidate in Economics at the University of Houston. My main interest is in development Economics, specifically in education. My primary research agenda aims at understanding the low level of learning (learning crisis) in Sub-Saharan African countries. I am on the job market 2024-2025 and you can find my [CV here]."
+    description: "Yabo Gwladys Vidogbena--Postdoctoral Fellow at the University of Pennsylvania. My main interest is in development Economics, specifically in education, and in trade. My primary research agenda aims at understanding the low level of learning (learning crisis) and structural change in Sub-Saharan African countries. I am on the job market 2026-2027 and you can find my [CV here]."
     author: Yabo Gwladys Vidogbena
     # keywords: "Yabo Gwladys Vidogbena, PhD Candidate, Economics, University of Houston, Development Economics"
     # googleAnalyticsID: "G-XXXXX"
@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Yabo Gwladys Vidogbena
-          subtitle: "Hi and Welcome! I am a Postdoctoral Fellow at the Population Studies Center (PSC) and an instructor in the Department of economics at the University of Pennsylvania. I obtained my Ph.D. in economics from the University of Houston. You can find my CV <a href='cv_yabo_vidogbena_noTA_jan_26.pdf' style='color:#009e73; font-weight:bold;'> here</a>."
+          subtitle: "Hi and Welcome! I am a Postdoctoral Fellow at the Population Studies Center (PSC) and an instructor in the Department of economics at the University of Pennsylvania. I obtained my Ph.D. in economics from the University of Houston. You can find my CV <a href='cv.pdf' style='color:#009e73; font-weight:bold;'> here</a>."
           imageUrl: "Yabo2040_squared_high_res.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -76,7 +76,7 @@ params:
         # - name: CV
         #   url: cv.pdf
         - name: Email
-          url: mailto:yvidogbena@uh.edu
+          url: mailto:yvidogbe@upenn.edu
         # - name: Location
         #   url: location/
         # - name: Office Hours
