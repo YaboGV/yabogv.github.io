@@ -7,14 +7,8 @@
 
 ### Publications
 
-+ **[Structural Change in Sub-Saharan Africa: An Open Economy Perspective](https://doi.org/10.1016/j.jinteco.2026.104248)**, with Gaaitzen de Vries, Hagen Kruse, Emmanuel Mensah, and Kei-Mu Yi. *Journal of International Economics* 161 (2026): 104248. [Slides](structural_change_Africa/presentation.pdf)
++ **[Structural Change in Sub-Saharan Africa: An Open Economy Perspective](https://doi.org/10.1016/j.jinteco.2026.104248)**, with Gaaitzen de Vries, Hagen Kruse, Emmanuel Mensah, and Kei-Mu Yi. *Journal of International Economics* 161 (2026): 104248.
 
 + **[The Impacts of Temperature on Reading and Math Test Scores in West and Central Africa](https://doi.org/10.1007/s11111-026-00531-z)**, with Risto Conte Keivabu, Julia Behrman, and Liliana Andriano. *Population and Environment* 48(3) (2026): 17.
 
 ### Working Papers
-
-+ **[Exposure to Heat and Student Cognitive Functioning](heat_executive_function/)**, with Sharon Wolf
-
-### Work in Progress
-
-+ **Secondary School Subsidy for Girls and Educational Attainment: Evidence from Benin**
