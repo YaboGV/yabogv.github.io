@@ -1,6 +1,8 @@
 ---
 title: "Structural Change in Sub-Saharan Africa: An Open Economy Perspective" 
 weight: 3
+_build:
+  list: never
 # date: 2024-09-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
 author: ["Gaaitzen de Vries", "Hagen Kruse", "Emmanuel Mensah", "Yabo Vidogbena", "Kei-Mu Yi"]

@@ -1,6 +1,7 @@
 ---
 title: "Exposure To Heat and Student Cognitive Functioning (JMP)" 
 weight: 1
+group: "Working Papers"
 # date: 2024-11-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena, Sharon Wolf"
