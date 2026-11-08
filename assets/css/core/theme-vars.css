@@ -6,19 +6,19 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
+    --theme: #EFEEE7;        /* page background: warm beige */
+    --entry: #FBFAF7;        /* cards/boxes: off-white */
+    --primary: #1D2333;      /* titles: deep navy-black */
+    --secondary: #6B6F79;
+    --tertiary: #C7C3B3;
     --gray: rgb(165, 165, 165);
-    --content: rgb(30, 30, 30);
+    --content: #1D2333;
     --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --darkpurple: #009e73;
-    --midpurple:#009e73;
-    --lightpurple: #e5e1f4;
+    --code-bg: #E6E3D8;
+    --border: #DBD8CB;       /* borders and lines: sand */
+    --darkpurple: #2B4C6F;   /* accent (links, underlines): muted navy; was #009e73 green */
+    --midpurple: #2B4C6F;
+    --lightpurple: #DCE4EA;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -44,7 +44,7 @@
 }
 
 .list {
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 .dark.list {
