@@ -1,2 +1,4 @@
 .DS_Store
 .hugo_build.lock
+# Hugo build output (the GitHub deploy rebuilds it)
+public/
