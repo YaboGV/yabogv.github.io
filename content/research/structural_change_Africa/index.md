@@ -1,8 +1,23 @@
 ---
 title: "Structural Change in Sub-Saharan Africa: An Open Economy Perspective" 
-weight: 3
-_build:
-  list: never
+weight: 1
+group: "Publications"
+coauthors: "with Gaaitzen de Vries, Hagen Kruse, Emmanuel Mensah, and Kei-Mu Yi"
+status: "Journal of International Economics 161 (2026)"
+links:
+  - name: "Paper"
+    url: "https://doi.org/10.1016/j.jinteco.2026.104248"
+abstract: >-
+  We study the evolution of manufacturing value added shares in 11 sub-Saharan Africa (SSA) countries
+  through the lens of an open economy model of structural change. Our analysis leverages recent
+  developments in input-output tables in SSA countries. Our model allows for income effects via
+  non-homothetic preferences, substitution and relative price effects, as well as comparative advantage
+  and specialization effects. We calibrate our model to include each SSA country with nine other major
+  economies for each year between 2000 and 2018. We also do a similar set of calibrations for 11
+  developing Asia (DA) countries. Our main results are that domestic and foreign sectoral TFP matter.
+  Trade integration over time plays only a small role. However, trade as a transmission mechanism is
+  important. Finally, the drivers and mechanisms of industrialization are similar in low-income SSA
+  and DA countries.
 # date: 2024-09-01
 # tags: ["keyword 1","keyword 2","keyword 4"]
 author: ["Gaaitzen de Vries", "Hagen Kruse", "Emmanuel Mensah", "Yabo Vidogbena", "Kei-Mu Yi"]

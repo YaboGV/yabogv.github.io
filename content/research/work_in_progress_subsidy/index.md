@@ -2,6 +2,13 @@
 title: "Secondary School Subsidy for Girls and Educational Attainment: Evidence from Benin"
 weight: 4
 group: "Work in Progress"
+status: "Work in progress"
+abstract: >-
+  I exploit the variation among potential primary school graduating cohorts by taking advantage of a
+  subsidy given to girls to attend secondary school in Benin starting from 2010. I investigated the
+  effect of the policy on Educational outcomes. Preliminary findings suggest that the policy increases
+  primary school completion by 6 percentage points and increases grade 7 enrolment (secondary school)
+  by 5 percentage points.
 # date: 2023-08-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena"

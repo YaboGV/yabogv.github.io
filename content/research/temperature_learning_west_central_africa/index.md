@@ -1,8 +1,19 @@
 ---
-title: "Temperature and Learning in West and Central Africa" 
+title: "The Impacts of Temperature on Reading and Math Test Scores in West and Central Africa"
 weight: 2
-_build:
-  list: never
+group: "Publications"
+coauthors: "with Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"
+status: "Population and Environment 48(3) (2026)"
+links:
+  - name: "Paper"
+    url: "https://doi.org/10.1007/s11111-026-00531-z"
+abstract: >-
+  In this paper, we combine georeferenced temperature data with newly released learning data from 8
+  West and Central African (WCA) countries in the Programme on the Analysis of Education Systems
+  (PASEC).  In the first part of the paper, we provide benchmark estimates of the effect of high
+  temperatures on learning outcomes in WCA, thus providing an important comparison point with other
+  parts of the world. We find preliminary evidence of a temperature-learning gradient with higher
+  temperatures associated with worse math and reading scores for students in our sample.
 # date: 2024-10-01
 # tags: ["Executive Function","UTCI","keyword 3"]
 author: "Yabo Gwladys Vidogbena, Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"

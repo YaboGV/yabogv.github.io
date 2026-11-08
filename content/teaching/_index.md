@@ -9,7 +9,7 @@ keywords: ["Yabo Gwladys Vidogbena", "Economics", "Development Economics", "Univ
 
 ### Teaching
 
-+ Instructor, Econometrics Methods and Models, Fall 2025, UPenn
++ Instructor, Econometrics Methods and Models, Fall 2025, Spring 2026, Fall 2026, and Spring 2027 (upcoming), UPenn
 
 + Instructor, Principles of Macroeconomics, Spring 2024, UH - [Students' course evaluation](2220_10848_Course_Evaluation_Report.pdf)
 

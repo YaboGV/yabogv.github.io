@@ -5,3 +5,126 @@
     border-radius: 5px; /* Optional: rounded corners */
     box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Optional: subtle shadow */
 }
+
+/* ---------- Research page: paper cards (layouts/research/list.html) ---------- */
+.research-group-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 32px 0 14px;
+}
+.research-group-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--secondary);
+    white-space: nowrap;
+}
+.research-group-rule {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+}
+.research-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+    gap: 16px;
+    align-items: start;
+}
+.paper-card {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px 20px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    transition: border-color 0.15s;
+}
+.paper-card:hover {
+    border-color: var(--tertiary);
+}
+.paper-card-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.35;
+    margin: 0;
+}
+.paper-card-title a {
+    color: var(--primary);
+    text-decoration: none;
+}
+.paper-card-title a:hover {
+    color: var(--darkpurple);
+}
+.paper-card-authors {
+    font-size: 0.9rem;
+    color: var(--secondary);
+}
+.paper-card-status {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--secondary);
+}
+.paper-card-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 4px;
+}
+.paper-card-links a,
+.paper-card-abstract summary {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--darkpurple);
+    text-decoration: none;
+    cursor: pointer;
+}
+.paper-card-links a:hover,
+.paper-card-abstract summary:hover {
+    text-decoration: underline;
+}
+.paper-card-abstract summary {
+    list-style: none;
+    width: fit-content;
+}
+.paper-card-abstract summary::-webkit-details-marker {
+    display: none;
+}
+.paper-card-abstract summary::after {
+    content: " ⌄";
+}
+.paper-card-abstract[open] summary::after {
+    content: " ⌃";
+}
+.paper-card-abstract p {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--content);
+}
+
+.paper-card-footer {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* ---------- Same-size cards (experiment) ----------
+   Delete this block to go back to cards of different sizes. */
+.research-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.paper-card {
+    min-height: 230px;
+}
+@media (max-width: 600px) {
+    .research-grid {
+        grid-template-columns: 1fr;
+    }
+    .paper-card {
+        min-height: 0;
+    }
+}

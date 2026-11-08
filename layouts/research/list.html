@@ -1,0 +1,61 @@
+{{- define "main" }}
+{{/* Research page only: papers shown as cards, grouped by the `group` front-matter field. */}}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{- with .Content }}
+<div class="post-content">{{ . }}</div>
+{{- end }}
+
+{{- $groups := slice "Publications" "Working Papers" "Work in Progress" }}
+{{- range $group := $groups }}
+{{- $papers := where $.RegularPages "Params.group" $group }}
+{{- if $papers }}
+<section class="research-group">
+  <div class="research-group-header">
+    <span class="research-group-label">{{ $group }}</span>
+    <span class="research-group-rule"></span>
+  </div>
+
+  <div class="research-grid">
+    {{- range $papers.ByWeight }}
+    {{- $paper := . }}
+    <article class="paper-card">
+      <h3 class="paper-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+      {{- with .Params.coauthors }}
+      <div class="paper-card-authors">{{ . }}</div>
+      {{- end }}
+
+      {{- with .Params.status }}
+      <div class="paper-card-status">{{ . }}</div>
+      {{- end }}
+
+      <div class="paper-card-footer">
+      {{- with .Params.links }}
+      <div class="paper-card-links">
+        {{- range . }}
+        {{- $url := .url }}
+        {{- if not (hasPrefix $url "http") }}{{ $url = printf "%s%s" $paper.RelPermalink $url }}{{ end }}
+        <a href="{{ $url }}" target="_blank" rel="noopener">{{ .name }} ↗</a>
+        {{- end }}
+      </div>
+      {{- end }}
+
+      {{- with .Params.abstract }}
+      <details class="paper-card-abstract">
+        <summary>Abstract</summary>
+        <p>{{ . | markdownify }}</p>
+      </details>
+      {{- end }}
+      </div>
+    </article>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
