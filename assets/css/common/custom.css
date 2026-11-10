@@ -128,3 +128,15 @@
         min-height: 0;
     }
 }
+
+/* Journal name links in the card status line */
+.paper-card-status a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: var(--border);
+    text-underline-offset: 3px;
+}
+.paper-card-status a:hover {
+    color: var(--darkpurple);
+    text-decoration-color: var(--darkpurple);
+}

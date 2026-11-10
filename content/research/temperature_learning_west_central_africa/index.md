@@ -4,6 +4,10 @@ weight: 2
 group: "Publications"
 coauthors: "with Risto Conte Keivabu, Julia Behrman, and Liliana Andriano"
 status: "Population and Environment 48(3) (2026)"
+statusURL: "https://link.springer.com/journal/11111"
+_build:
+  render: never
+  publishResources: false
 links:
   - name: "Paper"
     url: "https://doi.org/10.1007/s11111-026-00531-z"

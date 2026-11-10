@@ -4,6 +4,10 @@ weight: 1
 group: "Publications"
 coauthors: "with Gaaitzen de Vries, Hagen Kruse, Emmanuel Mensah, and Kei-Mu Yi"
 status: "Journal of International Economics 161 (2026)"
+statusURL: "https://www.sciencedirect.com/journal/journal-of-international-economics"
+_build:
+  render: never
+  publishResources: false
 links:
   - name: "Paper"
     url: "https://doi.org/10.1016/j.jinteco.2026.104248"

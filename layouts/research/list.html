@@ -23,14 +23,14 @@
     {{- range $papers.ByWeight }}
     {{- $paper := . }}
     <article class="paper-card">
-      <h3 class="paper-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <h3 class="paper-card-title">{{ if .RelPermalink }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ else }}{{ .Title }}{{ end }}</h3>
 
       {{- with .Params.coauthors }}
       <div class="paper-card-authors">{{ . }}</div>
       {{- end }}
 
       {{- with .Params.status }}
-      <div class="paper-card-status">{{ . }}</div>
+      <div class="paper-card-status">{{ with $paper.Params.statusURL }}<a href="{{ . }}" target="_blank" rel="noopener">{{ $paper.Params.status }}</a>{{ else }}{{ . }}{{ end }}</div>
       {{- end }}
 
       <div class="paper-card-footer">
